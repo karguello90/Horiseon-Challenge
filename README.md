@@ -12,4 +12,4 @@ Through trial and error, I learned that semantic HTML makes code more "accessibl
 
 My page is distinct in that it has had alt tags added, broken links have been fixed, and identifiable tags have been added throughout the HTML.
 
-[![Console-screentshot.png](https://i.postimg.cc/3rLd2SC9/Console-screentshot.png)](https://postimg.cc/8s6pSbYr)
+[![Console-screentshot.png](https://i.postimg.cc/W4DQf4Qh/Console-screentshot.png)](https://postimg.cc/KK2q1mc2)
