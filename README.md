@@ -12,4 +12,6 @@ Through trial and error, I learned that semantic HTML makes code more "accessibl
 
 My page is distinct in that it has had alt tags added, broken links have been fixed, and identifiable tags have been added throughout the HTML.
 
+The deployed page can be found here: https://karguello90.github.io/horiseon-challenge/
+
 [![Console-screentshot.png](https://i.postimg.cc/W4DQf4Qh/Console-screentshot.png)](https://postimg.cc/KK2q1mc2)
